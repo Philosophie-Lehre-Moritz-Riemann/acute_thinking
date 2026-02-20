@@ -19,8 +19,7 @@ narrator: UK English Female
 
 ### Henry David Thoreau
 
->"I heartily accept the motto, - "That Government is best which governs least;" and I should like to see it acted up to more rapidly and
- systematically. Carried out, it finally amounts to this, which I also believe, – "That government is best which governs not at all;" and when men are prepared for it, that will be the kind of government they will have." 
+>"I heartily accept the motto, - "That Government is best which governs least;" and I should like to see it acted up to more rapidly and systematically. Carried out, it finally amounts to this, which I also believe, – "That government is best which governs not at all;" and when men are prepared for it, that will be the kind of government they will have." 
 
 >"If the injustice is part of the necessary friction of the machine of government, let it go, let it go; perchance it will wear smooth—certainly the machine will wear out. If the injustice has a spring, or a pulley, or a rope, or a crank, exclusively for itself, then perhaps you may consider whether the remedy will not be worse than the evil; but if it is of such a nature that it requires you to be the agent of injustice to another, then I say, break the law. Let your life be a counter-friction to stop the machine. What I have to do is to see, at any rate, that I do not lend myself to the wrong which I condemn." (Civil Disobedience)
 
