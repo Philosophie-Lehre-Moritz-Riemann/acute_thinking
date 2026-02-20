@@ -63,6 +63,9 @@ Llewellyn Harrison Rockwell: "The Case for Paleo-Libertarianism" (1990)
 
 >"There is nothing wrong with blacks preferring the "black thing." But paleolibertarians would say the same about whites preferring the "white thing" or Asians the "Asian thing.""
 
+>"Libertarians can and must talk again with the resurgent paleoconservatives, now in the process of breaking away from the neocons. [...] Together, paleolibertarians and paleoconservatives can rebuild the great antiwelfare state, anti-interventionist coalition that thrived before World War II and survived through the Korean War. [...] Some will find this painful; I'm looking forward to it. Let the cleansing process begin – it is long past due."
+
+
 
 
 
