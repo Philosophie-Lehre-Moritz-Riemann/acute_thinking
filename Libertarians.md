@@ -49,6 +49,18 @@ John Perry Barlow, former Songwriter for the Greatful Dead: The Declaration of I
 >
 >We are creating a world that all may enter without privilege or prejudice accorded by race, economic power, military force, or station of birth. We are creating a world where anyone, anywhere may express his or her beliefs, no matter how singular, without fear of being coerced into silence or conformity. Your legal concepts of property, expression, identity, movement, and context do not apply to us. They are all based on matter, and there is no matter here. [...] Your increasingly obsolete information industries would perpetuate themselves by proposing laws, in America and elsewhere, that claim to own speech itself throughout the world. These laws would declare ideas to be another industrial product, no more noble than pig iron. In our world, whatever the human mind may create can be reproduced and distributed infinitely at no cost. The global conveyance of thought no longer requires your factories to accomplish.
 
+### Paleolibertarism
+
+Murray Rothbard 
+
+Llewellyn Harrison Rockwell: "The Case for Paleo-Libertarianism" (1990)
+
+>"Pornographic photography, "free"thinking, chaotic painting, atonal music, deconstructionist literature, Bauhaus architecture, and modernist films have nothing in common with the libertarian political agenda-no matter how much individual libertarians may revel in them. In addition to their aesthetic and moral disabilities, these "art forms" are political liabilities outside Berkeley and Greenwich Village."
+
+>"Most Americans despise civil rights and rightly so. At one time, civil rights "meant the rights of the citizen against the State," says Sobran. Now "it means favored treatment for blacks (or some other minority) at the expense of everyone else." [...]
+
+>"State-enforced segregation, which also violated property rights, was wrong, but so is State-enforced integration. State enforced segregation was not wrong because separateness is wrong, however. Wishing to associate with members of one's own race, nationality, religion, class, sex, or even political party is a natural and normal human impulse. A voluntary society will therefore have male organizations, Polish neighborhoods, black churches, Jewish country clubs, and white fraternities. When the State abolishes the right of free association, it creates not social peace but discord."
+
 
 
 
