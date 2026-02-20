@@ -13,6 +13,20 @@ narrator: UK English Female
 
 ## Ayn Rand, a very short bio
 
+- born 1905 as Alissa Sinowjewna Rosenbaum in St. Petersburg
+- died 1982 in New York
+- her russian-jewish parents lost their property in the revolution of 1917
+- Ayn Rand emigrated to the USA in 1926
+- First Novels: We the living (1936), The Fountainhead (1943), Atlas Shrugged (1957)
+
+[The Ayn Rand Institute](https://www.youtube.com/@AynRandInstitute/videos)
+
+[Interview mit Mike Wallace](https://www.youtube.com/watch?v=lHl2PqwRcY0)
+
+[The Atls Society](https://www.atlassociety.org/de)
+
+
+
 
 
 ## Two faces of Libertarianism: Robert Nozick v. Ayn Rand
