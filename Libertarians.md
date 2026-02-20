@@ -33,7 +33,9 @@ narrator: UK English Female
 
 ### Ayn Rand
 
->"There is no difference between communism and socialism, except in the means of achieving the same ultimate end: communism proposes to enslave men by force, socialism - by vote. It is merely the difference between murder and suicide."
+>"There is no difference between communism and socialism, except in the means of achieving the same ultimate end: communism proposes to enslave men by force, socialism - by vote. It is merely the difference between murder and suicide." (The Los Angeles times, Sept. 9, 1962)
+
+>"There is, however, one difference between the type of fascism toward we are drifting and the type that ravaged European countries: ours is not a militant kind of fascism, not an organized movement of shrill demagogues, bloody thugs, hysterical third rate intellectuals, and juvenile delinquents – ours is a tired, worn, cynical fascism, fascism by default, not a flaming disaster, but more like the quiet collapse of a lethargic body slowly eaten by internal corruption" (Capitalism: The Unknown Ideal 220)
 
 ## Variations
 
