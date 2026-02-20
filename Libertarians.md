@@ -61,6 +61,8 @@ Llewellyn Harrison Rockwell: "The Case for Paleo-Libertarianism" (1990)
 
 >"State-enforced segregation, which also violated property rights, was wrong, but so is State-enforced integration. State enforced segregation was not wrong because separateness is wrong, however. Wishing to associate with members of one's own race, nationality, religion, class, sex, or even political party is a natural and normal human impulse. A voluntary society will therefore have male organizations, Polish neighborhoods, black churches, Jewish country clubs, and white fraternities. When the State abolishes the right of free association, it creates not social peace but discord."
 
+>"There is nothing wrong with blacks preferring the "black thing." But paleolibertarians would say the same about whites preferring the "white thing" or Asians the "Asian thing.""
+
 
 
 
