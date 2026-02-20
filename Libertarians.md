@@ -79,7 +79,9 @@ Llewellyn Harrison Rockwell: "The Case for Paleo-Libertarianism" (1990)
 
 >"Libertarians can and must talk again with the resurgent paleoconservatives, now in the process of breaking away from the neocons. [...] Together, paleolibertarians and paleoconservatives can rebuild the great antiwelfare state, anti-interventionist coalition that thrived before World War II and survived through the Korean War. [...] Some will find this painful; I'm looking forward to it. Let the cleansing process begin – it is long past due."
 
+### Peter Thiel
 
+>"I remain committed to the faith of my teenage years: to authentic human freedom as a precondition for the highest good. I stand against confiscatory taxes, totalitarian collectives, and the ideology of the inevitability of the death of every individual. For all these reasons, I still call myself “libertarian.” But I must confess that over the last two decades, I have changed radically on the question of how to achieve these goals. Most importantly, I no longer believe that freedom and democracy are compatible. By tracing out the development of my thinking, I hope to frame some of the challenges faced by all classical liberals today."
 
 
 
