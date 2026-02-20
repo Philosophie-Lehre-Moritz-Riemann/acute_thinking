@@ -19,10 +19,10 @@ narrator: UK English Female
 
 ### Henry David Thoreau
 
-"I heartily accept the motto, – "That Government is best which governs least;" and I should like to see it acted up to more rapidly and
- systematically. Carried out, it finally amounts to this, which I also believe, – "That government is best which governs not at all;" and when men are prepared for it, that will be the kind of governemtn they will have." 
+>"I heartily accept the motto, - "That Government is best which governs least;" and I should like to see it acted up to more rapidly and
+ systematically. Carried out, it finally amounts to this, which I also believe, – "That government is best which governs not at all;" and when men are prepared for it, that will be the kind of government they will have." 
 
-"If the injustice is part of the necessary friction of the machine of government, let it go, let it go; perchance it will wear smooth—certainly the machine will wear out. If the injustice has a spring, or a pulley, or a rope, or a crank, exclusively for itself, then perhaps you may consider whether the remedy will not be worse than the evil; but if it is of such a nature that it requires you to be the agent of injustice to another, then I say, break the law. Let your life be a counter-friction to stop the machine. What I have to do is to see, at any rate, that I do not lend myself to the wrong which I condemn." (Civil Disobedience)
+>"If the injustice is part of the necessary friction of the machine of government, let it go, let it go; perchance it will wear smooth—certainly the machine will wear out. If the injustice has a spring, or a pulley, or a rope, or a crank, exclusively for itself, then perhaps you may consider whether the remedy will not be worse than the evil; but if it is of such a nature that it requires you to be the agent of injustice to another, then I say, break the law. Let your life be a counter-friction to stop the machine. What I have to do is to see, at any rate, that I do not lend myself to the wrong which I condemn." (Civil Disobedience)
 
 
 ### Robert Nozick
@@ -34,7 +34,7 @@ narrator: UK English Female
 
 ### Ayn Rand
 
-"There is no difference between communism and socialism, except in the means of achieving the same ultimate end: communism proposes to enslave men by force, socialism - by vote. It is merely the difference between murder and suicide."
+>"There is no difference between communism and socialism, except in the means of achieving the same ultimate end: communism proposes to enslave men by force, socialism - by vote. It is merely the difference between murder and suicide."
 
 ## Variations
 
@@ -42,7 +42,7 @@ narrator: UK English Female
 
 John Perry Barlow, former Songwriter for the Greatful Dead: The Declaration of Independence of the Cyberspace
 
-"Governments of the Industrial World, you weary giants of flesh and steel, I come from Cyberspace, the new home of Mind. On behalf of the future, I ask you of the past to leave us alone. You are not welcome among us. You have no sovereignty where we gather. We have no elected government, nor are we likely to have one, so I address you with no greater authority than that with which liberty itself always speaks. I declare the global social space we are building to be naturally independent of the tyrannies you seek to impose on us. You have no moral right to rule us nor do you possess any methods of enforcement we have true reason to fear."
+>"Governments of the Industrial World, you weary giants of flesh and steel, I come from Cyberspace, the new home of Mind. On behalf of the future, I ask you of the past to leave us alone. You are not welcome among us. You have no sovereignty where we gather. We have no elected government, nor are we likely to have one, so I address you with no greater authority than that with which liberty itself always speaks. I declare the global social space we are building to be naturally independent of the tyrannies you seek to impose on us. You have no moral right to rule us nor do you possess any methods of enforcement we have true reason to fear."
 
 >You claim there are problems among us that you need to solve. You use this claim as an excuse to invade our precincts. Many of these problems don't exist. Where there are real conflicts, where there are wrongs, we will identify them and address them by our means. We are forming our own Social Contract. This governance will arise according to the conditions of our world, not yours. Our world is different. Cyberspace consists of transactions, relationships, and thought itself, arrayed like a standing wave in the web of our communications. Ours is a world that is both everywhere and nowhere, but it is not where bodies live.
 >
