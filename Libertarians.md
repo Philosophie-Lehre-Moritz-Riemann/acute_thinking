@@ -19,7 +19,7 @@ narrator: UK English Female
 - Ayn Rand emigrated to the USA in 1926
 - First Novels: We the living (1936), The Fountainhead (1943), Atlas Shrugged (1957)
 
-[The Ayn Rand Institute]((https://aynrand.org/)
+[The Ayn Rand Institute](https://aynrand.org/)
 
 [Interview mit Mike Wallace](https://www.youtube.com/watch?v=lHl2PqwRcY0)
 
