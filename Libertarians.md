@@ -83,5 +83,7 @@ Llewellyn Harrison Rockwell: "The Case for Paleo-Libertarianism" (1990)
 
 >"I remain committed to the faith of my teenage years: to authentic human freedom as a precondition for the highest good. I stand against confiscatory taxes, totalitarian collectives, and the ideology of the inevitability of the death of every individual. For all these reasons, I still call myself “libertarian.” But I must confess that over the last two decades, I have changed radically on the question of how to achieve these goals. Most importantly, I no longer believe that freedom and democracy are compatible. By tracing out the development of my thinking, I hope to frame some of the challenges faced by all classical liberals today."
 
+>"A better metaphor is that we are in a deadly race between politics and technology. The future will be much better or much worse, but the question of the future remains very open indeed. We do not know exactly how close this race is, but I suspect that it may be very close, even down to the wire. Unlike the world of politics, in the world of technology the choices of individuals may still be paramount. The fate of our world may depend on the effort of a single person who builds or propagates the machinery of freedom that makes the world safe for capitalism."
+
 
 
